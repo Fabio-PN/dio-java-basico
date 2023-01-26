@@ -8,13 +8,18 @@ public class MinhaClasse {
         String primeiroNome = "Fabio";
         String segundoNome = "Nogueira";
         String  nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
-        System.out.println(nomeCompleto);
-
+        
+        //Variáveis inteiras e booleanas
         int anoFabricacao = 2022;
         boolean verdadeira = true;
 
-        // Após a variável criada ela pode ser modificada
+        //Após a variável criada ela pode ser modificada
         anoFabricacao = 2018;
+
+        //Saída de dados
+        System.out.println(nomeCompleto);
+        System.out.println(anoFabricacao);
+        System.out.println(verdadeira);
 
     }
 
