@@ -1,5 +1,9 @@
+//Indentificação do pacote onde está o arquivo class
+package edu.fabio.primeirasemana;
+
 // Introdução da minha classe com o nome do arquivo sendo o nome da classe
 public class MinhaClasse {
+
     //Criando um método principal onde retorna o que está escrito dentro dele.
     public static void main(String[] args) {
         System.out.print("Olá! Sejam bem vindos!");
